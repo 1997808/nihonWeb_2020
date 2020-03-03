@@ -12,9 +12,20 @@ ul, li {
 
 a {
     text-decoration: none;
-    color: white;
 }
 
 a:hover{
     text-decoration: none;
+}
+
+h1 {
+    font-size: 40px
+}
+
+h2, h3 {
+    font-size: 24px
+}
+
+img {
+    object-fit : contain
 }

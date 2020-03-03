@@ -1,0 +1,28 @@
+/* for khoa hoc dich vu */
+img {
+  height: 200px;
+}
+
+/* for icon doi tac */
+/* img {
+  height: 100px;
+} */
+
+/* for gioi thieu and blog */
+/* img {
+  height: 300px;
+  object-fit : contain
+} */
+
+/*set color chu Xem Chi Tiet*/
+.button {
+  color: #009DDC;
+}
+
+/* for button need border*/
+/* .button {
+  display: inline;
+  padding: 10px 15px;
+  border: 1px solid #009DDC;
+} */
+
