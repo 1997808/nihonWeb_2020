@@ -27,5 +27,5 @@ h2, h3 {
 }
 
 img {
-    object-fit : contain
+    object-fit : cover
 }
